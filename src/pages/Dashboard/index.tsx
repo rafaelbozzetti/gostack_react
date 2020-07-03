@@ -13,7 +13,6 @@ interface Repository {
         login: string;
         avatar_url: string;
     }
-
 }
 
 const Dashboard: React.FC = () => {
